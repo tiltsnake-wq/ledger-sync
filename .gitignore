@@ -1,0 +1,8 @@
+.env
+.token
+*.log
+*.pid
+tunnel.*
+data/ops.json
+data/*.tmp
+node_modules/
